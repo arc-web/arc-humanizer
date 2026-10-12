@@ -109,7 +109,7 @@ These are the strongest and most frequent tells in current model prose. Act on o
 
 ### 4. Staged run-up before the point
 
-**Watch for:** Let's dive in, let's explore, let's break this down, here's what you need to know, now let's look at, without further ado, heads up, quick note, Honestly?, Look, Here's the thing, The thing is, Let's be honest, Real talk, and casual versions such as "one thing that bit me, so pay attention"; apology and ownership openers: Yes I see it, That's on me, You're right, Fair, Understood, Got it, My mistake, No excuses, I'd rather X than Y, or any sentence about the writer's own attitude or feelings
+**Watch for:** Let's dive in, let's explore, let's break this down, here's what you need to know, now let's look at, without further ado, heads up, quick note, Honestly?, Look, Here's the thing, The thing is, Let's be honest, Real talk, Yes, I see it, That's on me, You're right, Fair point, Understood, Got it, My mistake, No excuses, I'd rather X than Y, and casual versions such as "one thing that bit me, so pay attention"
 **Problem:** The writer announces the point or stages a moment of candor instead of making the point. Remove the run-up, not just its tone. "Honestly" or "look" inside a casual sentence is ordinary; the tell is the standalone opener before a routine claim.
 **Before:**
 > Let's dive into how caching works in Next.js. Here's what you need to know.
