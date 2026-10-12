@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.1.1
+
+- Extended #4 with standalone apology and ownership openers: "Yes, I see it", "That's on me", "You're right", "Fair point", "Understood", "Got it", "My mistake", "No excuses" and "I'd rather X than Y".
+
 ## 3.1.0
 
 - Added pattern #26 and section F for replies that re-explain context the reader already has (#269). It acts on replies, not standalone writing. 26 patterns total.
