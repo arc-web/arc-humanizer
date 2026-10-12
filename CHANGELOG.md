@@ -2,7 +2,7 @@
 
 ## 3.1.1
 
-- Extended #4 to apology and ownership openers ("Yes I see it", "That's on me", "You're right", "Got it", "My mistake" and similar) and to sentences about the writer's own attitude or feelings.
+- Extended #4 with standalone apology and ownership openers: "Yes, I see it", "That's on me", "You're right", "Fair point", "Understood", "Got it", "My mistake", "No excuses" and "I'd rather X than Y".
 
 ## 3.1.0
 
