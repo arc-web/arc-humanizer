@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.1.1
+
+- Extended #4 to apology and ownership openers ("Yes I see it", "That's on me", "You're right", "Got it", "My mistake" and similar) and to sentences about the writer's own attitude or feelings.
+
 ## 3.1.0
 
 - Added pattern #26 and section F for replies that re-explain context the reader already has (#269). It acts on replies, not standalone writing. 26 patterns total.
